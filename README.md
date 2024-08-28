@@ -9,7 +9,7 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/hanaia-finch-b19500314/)
+[linkedin]: https://www.linkedin.com/in/hanaia-finch-b19500314/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
