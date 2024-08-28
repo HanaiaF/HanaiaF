@@ -2,10 +2,10 @@
 
 <h2>👩🏾‍💻Coding Projects</h2>
 <h3>Java</h3>
-  - [Dance Dance Arrayvolution](https://github.com/HanaiaF/Dance-Dance-Arrayvolution)
+  - https://github.com/HanaiaF/Dance-Dance-Arrayvolution
 
 <h3>HTML, CSS, JavaScript</h3>
-  - [To-Do List](https://github.com/HanaiaF/To-Do-List/)
+  - https://github.com/HanaiaF/To-Do-List
 
 <h2> 🤳 Connect with me:</h2>
 
