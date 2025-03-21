@@ -1,4 +1,7 @@
 <h1>Hi, I'm Hanaia!</h1>
+<h3>
+I am currently a student at the University of Washington, Seattle.
+</h3>
 
 <h2>👩🏾‍💻Coding Projects</h2>
 <h3>Java</h3>
